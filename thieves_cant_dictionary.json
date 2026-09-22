@@ -1,0 +1,3118 @@
+{
+    "everything's fine": [
+        "all is bob"
+    ],
+    "all is safe":[
+        "all is bob"
+    ],
+    "out of danger": [
+        "in the clear"
+    ],
+    "(sarcastic) more like a bear than a squirrel": [
+        "quick and nimble"
+    ],
+    "boat": [
+        "ark"
+    ],
+    "magic": [
+        "flash"
+    ],
+    "male wizard": [
+        "flash cove"
+    ],
+    "fool": [
+        "gudgeon"
+    ],
+    "street prowler who's always on the lookout to commit small robberies": [
+        "angler"
+    ],
+    "to inform": [
+        "rat"
+    ],
+    "to steal": [
+        "bite"
+    ],
+    "wooden cudgel": [
+        "oak"
+    ],
+    "to escape": [
+        "rub"
+    ],
+    "house,  building": [
+        "ken"
+    ],
+    "a disguise": [
+        "bakre"
+    ],
+    "a person of any gender": [
+        "nabs"
+    ],
+    "a smash-and-grab raid": [
+        "bash"
+    ],
+    "a threat, meaning \"I'll give you something to cry about\"": [
+        "O Be Joyful"
+    ],
+    "about": [
+        "syhi"
+    ],
+    "above, over, up": [
+        "fu"
+    ],
+    "across": [
+        "ne"
+    ],
+    "after": [
+        "bira"
+    ],
+    "afternoon": [
+        "salane"
+    ],
+    "against": [
+        "bus"
+    ],
+    "alchemist": [
+        "simikir"
+    ],
+    "alchemy": [
+        "simik"
+    ],
+    "ale": [
+        "ymus"
+    ],
+    "amethyst": [
+        "balolot"
+    ],
+    "amulet": [
+        "binto"
+    ],
+    "animal": [
+        "raoka"
+    ],
+    "any": [
+        "at"
+    ],
+    "anything": [
+        "atbura"
+    ],
+    "anytime": [
+        "atnau"
+    ],
+    "arch": [
+        "ahak"
+    ],
+    "arm": [
+        "nakao"
+    ],
+    "armor": [
+        "rokato"
+    ],
+    "armorer": [
+        "rokatin"
+    ],
+    "armory": [
+        "kosohin"
+    ],
+    "around": [
+        "lema"
+    ],
+    "arrest": [
+        "sanili"
+    ],
+    "arrested": [
+        "invited",
+        "nabbed"
+    ],
+    "arrow": [
+        "tot"
+    ],
+    "arson": [
+        "hinunta"
+    ],
+    "artery": [
+        "fanil"
+    ],
+    "as soon as": [
+        "kusuo"
+    ],
+    "as, like": [
+        "bina"
+    ],
+    "assassin": [
+        "hit-man",
+        "hitter"
+    ],
+    "assassin": [
+        "bitama"
+    ],
+    "at": [
+        "na"
+    ],
+    "aunt, uncle": [
+        "toa"
+    ],
+    "back": [
+        "sakam"
+    ],
+    "backpack": [
+        "sakambar"
+    ],
+    "backstab": [
+        "shoulder tap"
+    ],
+    "badness": [
+        "frun"
+    ],
+    "bandit": [
+        "ykanan"
+    ],
+    "bank": [
+        "falsa"
+    ],
+    "banker": [
+        "falsat"
+    ],
+    "bard": [
+        "brother of the string",
+        "crowdero",
+        "sheepskin fiddler",
+        "tormentor of catgut",
+        "wait",
+        "zany"
+    ],
+    "barding": [
+        "burfe"
+    ],
+    "barge": [
+        "falaka"
+    ],
+    "barkeep": [
+        "kalakar"
+    ],
+    "barn": [
+        "kiset"
+    ],
+    "barracks": [
+        "kauhin"
+    ],
+    "barrel": [
+        "sahas"
+    ],
+    "basin": [
+        "huso"
+    ],
+    "bat": [
+        "ibit"
+    ],
+    "bath": [
+        "liko"
+    ],
+    "battle": [
+        "tabo"
+    ],
+    "beard": [
+        "inat"
+    ],
+    "because": [
+        "ibli"
+    ],
+    "because of": [
+        "libi"
+    ],
+    "bed": [
+        "nako"
+    ],
+    "bedroom": [
+        "nakohin"
+    ],
+    "beer": [
+        "amus"
+    ],
+    "before": [
+        "moly"
+    ],
+    "beggar": [
+        "dommerer"
+    ],
+    "beggar who targets coaches": [
+        "rattling mumper"
+    ],
+    "beginning": [
+        "bone"
+    ],
+    "behind": [
+        "obul"
+    ],
+    "below, beneath, under, down": [
+        "nu"
+    ],
+    "belt": [
+        "sintur"
+    ],
+    "bench": [
+        "syili"
+    ],
+    "beside": [
+        "sa"
+    ],
+    "between": [
+        "flo"
+    ],
+    "bigness": [
+        "sio"
+    ],
+    "bird": [
+        "syt"
+    ],
+    "birth": [
+        "hibar"
+    ],
+    "black": [
+        "koret"
+    ],
+    "blanket": [
+        "tomuk"
+    ],
+    "blood": [
+        "fanbo"
+    ],
+    "blow to the face": [
+        "dowse on the chops"
+    ],
+    "blue": [
+        "nerb"
+    ],
+    "boat": [
+        "barbo"
+    ],
+    "boat": [
+        "swimmer"
+    ],
+    "body": [
+        "salarka"
+    ],
+    "body snatcher": [
+        "resurrection man"
+    ],
+    "bone": [
+        "botu"
+    ],
+    "book": [
+        "lakat"
+    ],
+    "boot": [
+        "telu"
+    ],
+    "booty": [
+        "relbat"
+    ],
+    "booty, haul, stolen goods": [
+        "take"
+    ],
+    "boss, chief, master": [
+        "ukal"
+    ],
+    "bounty hunter": [
+        "prig napper"
+    ],
+    "bow": [
+        "rafak"
+    ],
+    "box": [
+        "kal"
+    ],
+    "bracelet": [
+        "omban"
+    ],
+    "brain": [
+        "sankot"
+    ],
+    "breath": [
+        "mafit"
+    ],
+    "bribe": [
+        "dawb"
+    ],
+    "bribe": [
+        "madli"
+    ],
+    "brick": [
+        "kilu"
+    ],
+    "bridge": [
+        "hili"
+    ],
+    "broach": [
+        "toka"
+    ],
+    "brothel": [
+        "academy"
+    ],
+    "brown": [
+        "noru"
+    ],
+    "bucket": [
+        "kubak"
+    ],
+    "building": [
+        "kusal"
+    ],
+    "burglar": [
+        "rounder"
+    ],
+    "burglar": [
+        "kalinta"
+    ],
+    "burial": [
+        "maleto"
+    ],
+    "but": [
+        "moky"
+    ],
+    "by": [
+        "ky"
+    ],
+    "can (to be able)": [
+        "beben"
+    ],
+    "candle": [
+        "ylo"
+    ],
+    "caravan": [
+        "lusok"
+    ],
+    "cardsharp, cheat, con artist": [
+        "jack in a box"
+    ],
+    "cart": [
+        "kest"
+    ],
+    "case": [
+        "mibar"
+    ],
+    "casket": [
+        "hunakal"
+    ],
+    "castle": [
+        "ornek"
+    ],
+    "cat": [
+        "aram"
+    ],
+    "cave": [
+        "kuena"
+    ],
+    "ceiling": [
+        "filu"
+    ],
+    "cell": [
+        "myo"
+    ],
+    "center": [
+        "het"
+    ],
+    "chain": [
+        "sambil"
+    ],
+    "chair": [
+        "yli"
+    ],
+    "charisma": [
+        "lisema"
+    ],
+    "cheat": [
+        "bam",
+        "cog",
+        "nap",
+        "slur"
+    ],
+    "chest (container)": [
+        "kanab"
+    ],
+    "chest (torso)": [
+        "fatib"
+    ],
+    "child": [
+        "berkin"
+    ],
+    "chin": [
+        "banal"
+    ],
+    "choice": [
+        "uha"
+    ],
+    "city": [
+        "holyat"
+    ],
+    "city or town jail": [
+        "repository"
+    ],
+    "cleric": [
+        "pater cove",
+        "pudding sleeves",
+        "soul doctor",
+        "tickle text"
+    ],
+    "cleric": [
+        "kawabi"
+    ],
+    "client": [
+        "hinylot"
+    ],
+    "cloak": [
+        "loab"
+    ],
+    "clothing": [
+        "mys"
+    ],
+    "cloud": [
+        "kalok"
+    ],
+    "club": [
+        "tufa"
+    ],
+    "coach": [
+        "rumble-tumble"
+    ],
+    "coach,  stage": [
+        "rattler"
+    ],
+    "coins": [
+        "shiners"
+    ],
+    "cold": [
+        "arot"
+    ],
+    "color": [
+        "lok"
+    ],
+    "committing crimes": [
+        "rootin'"
+    ],
+    "common sailor": [
+        "jack nasty face"
+    ],
+    "common thief": [
+        "footpad"
+    ],
+    "completely mixed up": [
+        "higgledy-piggledy"
+    ],
+    "con artist": [
+        "grifter"
+    ],
+    "consciousness": [
+        "fora"
+    ],
+    "constitution": [
+        "mofit"
+    ],
+    "container": [
+        "sahal"
+    ],
+    "copper": [
+        "krin"
+    ],
+    "correctness": [
+        "bersity"
+    ],
+    "country": [
+        "esim"
+    ],
+    "court": [
+        "nio"
+    ],
+    "criminal's plan or method of crime,  danger": [
+        "lay"
+    ],
+    "criminals in the stocks": [
+        "babes in the woods"
+    ],
+    "crossbow": [
+        "byrafak"
+    ],
+    "crowbar": [
+        "jemmy"
+    ],
+    "crowd": [
+        "arkar"
+    ],
+    "crown": [
+        "fuib"
+    ],
+    "crypt": [
+        "hunashin"
+    ],
+    "cup": [
+        "bebol"
+    ],
+    "cupboard": [
+        "osalos"
+    ],
+    "curse": [
+        "takali"
+    ],
+    "curtain": [
+        "aoro"
+    ],
+    "custom": [
+        "ibim"
+    ],
+    "cut": [
+        "sya"
+    ],
+    "cutpurse": [
+        "young nipper"
+    ],
+    "dagger": [
+        "pig poker"
+    ],
+    "dagger": [
+        "ret"
+    ],
+    "danger": [
+        "bylis"
+    ],
+    "darkness": [
+        "ekob"
+    ],
+    "dart": [
+        "tur"
+    ],
+    "date": [
+        "syf"
+    ],
+    "day": [
+        "lightmans"
+    ],
+    "day": [
+        "ine"
+    ],
+    "deal": [
+        "yhy"
+    ],
+    "death": [
+        "hunar"
+    ],
+    "defeat": [
+        "koka"
+    ],
+    "demon": [
+        "asin"
+    ],
+    "desert": [
+        "akbun"
+    ],
+    "desk": [
+        "risin"
+    ],
+    "dexterity": [
+        "tura"
+    ],
+    "diamond": [
+        "urtel"
+    ],
+    "diamonds , jewels": [
+        "sparklers"
+    ],
+    "dice": [
+        "bones"
+    ],
+    "discovery": [
+        "fibil"
+    ],
+    "dishonesty": [
+        "oberabas"
+    ],
+    "diversion": [
+        "lakana"
+    ],
+    "division": [
+        "broka"
+    ],
+    "dog": [
+        "fang"
+    ],
+    "dog": [
+        "simar"
+    ],
+    "door": [
+        "uhob"
+    ],
+    "door": [
+        "lid"
+    ],
+    "dragon": [
+        "fybkes"
+    ],
+    "drawer": [
+        "tiran"
+    ],
+    "drink": [
+        "asefa"
+    ],
+    "drug": [
+        "titani"
+    ],
+    "druid": [
+        "kaslil"
+    ],
+    "duck": [
+        "quacking cheat"
+    ],
+    "dues owed to the guild": [
+        "tithe"
+    ],
+    "dungeon": [
+        "ror"
+    ],
+    "during": [
+        "norb"
+    ],
+    "dwarf ": [
+        "teko"
+    ],
+    "ear": [
+        "tyna"
+    ],
+    "earliness": [
+        "naltos"
+    ],
+    "earring": [
+        "matybal"
+    ],
+    "earth": [
+        "nusfi"
+    ],
+    "east": [
+        "salif"
+    ],
+    "eight": [
+        "tulo"
+    ],
+    "electrum": [
+        "bintal"
+    ],
+    "elf ,  eladrin": [
+        "ulim"
+    ],
+    "emerald": [
+        "akoy"
+    ],
+    "end": [
+        "une"
+    ],
+    "endurance": [
+        "nabi"
+    ],
+    "engineer": [
+        "inher"
+    ],
+    "entrance": [
+        "mahan"
+    ],
+    "equipment": [
+        "sala"
+    ],
+    "escape": [
+        "unta"
+    ],
+    "every time": [
+        "heken"
+    ],
+    "everything": [
+        "faburan"
+    ],
+    "everywhere": [
+        "kontonken"
+    ],
+    "evidence": [
+        "turyas"
+    ],
+    "except": [
+        "tik"
+    ],
+    "expense": [
+        "onbom"
+    ],
+    "experience": [
+        "syto"
+    ],
+    "extremely poor handwriting": [
+        "pothooks and hangers"
+    ],
+    "eye": [
+        "atami"
+    ],
+    "take a look)": [
+        "glaziers"
+    ],
+    "eyes": [
+        "ogles",
+        "sparklers"
+    ],
+    "fake coin": [
+        "button"
+    ],
+    "fall (season)": [
+        "norsalik"
+    ],
+    "false oath": [
+        "rap"
+    ],
+    "false witness": [
+        "affidavit man",
+        "knight of the post"
+    ],
+    "farm": [
+        "narak"
+    ],
+    "farmer": [
+        "clod hopper"
+    ],
+    "fellow criminal or bandit": [
+        "scamp"
+    ],
+    "female pickpocket who distracted intended victims": [
+        "nympher"
+    ],
+    "female wizard": [
+        "flash mot"
+    ],
+    "fence, receiver of stolen goods": [
+        "fencing cull"
+    ],
+    "fighter": [
+        "bruiser",
+        "fibbing-gloak",
+        "nulling cove"
+    ],
+    "fighter": [
+        "kol"
+    ],
+    "finger": [
+        "baral"
+    ],
+    "fire": [
+        "bal"
+    ],
+    "fireplace": [
+        "kanabal"
+    ],
+    "first": [
+        "bink"
+    ],
+    "five": [
+        "lim"
+    ],
+    "flesh": [
+        "kitki"
+    ],
+    "flint": [
+        "bybi"
+    ],
+    "floor": [
+        "ybel"
+    ],
+    "food": [
+        "safe"
+    ],
+    "fool": [
+        "gull",
+        "milch cow"
+    ],
+    "foolish projects": [
+        "windmills in the head"
+    ],
+    "foot": [
+        "uket"
+    ],
+    "for": [
+        "lit"
+    ],
+    "forehead": [
+        "kuta"
+    ],
+    "forest": [
+        "suso"
+    ],
+    "fork": [
+        "rimnok"
+    ],
+    "fountain": [
+        "enit"
+    ],
+    "four": [
+        "lo"
+    ],
+    "freedom": [
+        "borob"
+    ],
+    "from": [
+        "bu"
+    ],
+    "fun": [
+        "lark"
+    ],
+    "future": [
+        "kar"
+    ],
+    "gallery": [
+        "bio"
+    ],
+    "galley": [
+        "teltan"
+    ],
+    "gallows": [
+        "chatts",
+        "deadly nevergreen",
+        "morning drop",
+        "nubbing cheat",
+        "sheriff's picture frame",
+        "three-legged mare"
+    ],
+    "gang, guild": [
+        "birds of a feather"
+    ],
+    "garden": [
+        "amas"
+    ],
+    "garlic": [
+        "os"
+    ],
+    "gate": [
+        "sany"
+    ],
+    "gem": [
+        "isala"
+    ],
+    "gentleman,  honest man": [
+        "cull"
+    ],
+    "gift": [
+        "lyr"
+    ],
+    "give me money or I'll beat you": [
+        "tip your lour or I'll mill ye"
+    ],
+    "glass": [
+        "sulan"
+    ],
+    "gloves": [
+        "fams"
+    ],
+    "gnome ": [
+        "kurbe"
+    ],
+    "goblet": [
+        "siril"
+    ],
+    "god": [
+        "akfur"
+    ],
+    "gold": [
+        "yellow tin"
+    ],
+    "gold": [
+        "hymur"
+    ],
+    "gold coins": [
+        "Yellow Boys"
+    ],
+    "good": [
+        "bene",
+        "rum"
+    ],
+    "good, profitable": [
+        "bowman"
+    ],
+    "goodbye": [
+        "syetken"
+    ],
+    "goodness": [
+        "syet"
+    ],
+    "gray": [
+        "solet"
+    ],
+    "great eater": [
+        "knight of the trencher"
+    ],
+    "green": [
+        "resen"
+    ],
+    "group": [
+        "tek"
+    ],
+    "guardroom": [
+        "sarhin"
+    ],
+    "guildmaster": [
+        "dimber damber"
+    ],
+    "gullible person": [
+        "gudgeon"
+    ],
+    "hair": [
+        "kuho"
+    ],
+    "half ": [
+        "obla"
+    ],
+    "half-elf ": [
+        "ulimobla"
+    ],
+    "half-orc ": [
+        "takobla"
+    ],
+    "halfling": [
+        "go by the ground"
+    ],
+    "halfling ": [
+        "mistis"
+    ],
+    "hall": [
+        "sanla"
+    ],
+    "hand": [
+        "sakel"
+    ],
+    "hanged": [
+        "acorned",
+        "dangled",
+        "had a case of hempen fever",
+        "nubbed",
+        "scragged",
+        "stretched",
+        "swung"
+    ],
+    "hangman": [
+        "ketch",
+        "nubbing cove",
+        "topping cove"
+    ],
+    "harlot": [
+        "aunt"
+    ],
+    "harness": [
+        "biby"
+    ],
+    "having plenty of money": [
+        "flush in the pocket"
+    ],
+    "he'll regret this": [
+        "sorrow shall be his sops"
+    ],
+    "he, him, she, her, it": [
+        "ti"
+    ],
+    "he, him, she, her, it": [
+        "i"
+    ],
+    "head": [
+        "biak"
+    ],
+    "head": [
+        "knowledge box",
+        "nob"
+    ],
+    "head of a gang of criminals": [
+        "big boy"
+    ],
+    "healer": [
+        "nimgimmer"
+    ],
+    "heart": [
+        "likiha"
+    ],
+    "heartbeat": [
+        "likihyran"
+    ],
+    "heat": [
+        "ortob"
+    ],
+    "heaviness": [
+        "obtylo"
+    ],
+    "hello": [
+        "syetonta"
+    ],
+    "helmet": [
+        "tif"
+    ],
+    "hideout": [
+        "dive"
+    ],
+    "hideout": [
+        "stalling ken",
+        "stop hole abbey"
+    ],
+    "high-ranking member of the watch": [
+        "shoulder clapper"
+    ],
+    "highness": [
+        "bora"
+    ],
+    "highway": [
+        "pad"
+    ],
+    "highway, main road": [
+        "high toby"
+    ],
+    "highwayman": [
+        "high pad",
+        "knight of the road",
+        "land pirate"
+    ],
+    "highwayman": [
+        "lekel"
+    ],
+    "hill": [
+        "kunsal"
+    ],
+    "hired help": [
+        "hack"
+    ],
+    "holdup": [
+        "kontora"
+    ],
+    "holiness": [
+        "mina"
+    ],
+    "home, house": [
+        "iro"
+    ],
+    "honesty": [
+        "terabas"
+    ],
+    "honor": [
+        "totak"
+    ],
+    "horse": [
+        "aby"
+    ],
+    "horse": [
+        "keffal",
+        "prancer"
+    ],
+    "horsewhipping": [
+        "handsome reward"
+    ],
+    "hour": [
+        "lane"
+    ],
+    "house": [
+        "panny"
+    ],
+    "house that harbors thieves and rogues": [
+        "bowman ken"
+    ],
+    "house which thieves use": [
+        "flash ken"
+    ],
+    "housebreaker": [
+        "cracksman",
+        "ken cracker"
+    ],
+    "housebreaker harness": [
+        "spider"
+    ],
+    "how": [
+        "bihe"
+    ],
+    "how many, how much": [
+        "behebe"
+    ],
+    "however, on the contrary": [
+        "kymo"
+    ],
+    "human": [
+        "rylo"
+    ],
+    "hundred": [
+        "sur"
+    ],
+    "I, me": [
+        "to"
+    ],
+    "I, me": [
+        "o"
+    ],
+    "idol": [
+        "natuk"
+    ],
+    "if": [
+        "beti"
+    ],
+    "illicit, bogus, fake,  to con, to lie": [
+        "sham"
+    ],
+    "illusion": [
+        "kulat"
+    ],
+    "illusionist": [
+        "kulamak"
+    ],
+    "in": [
+        "ly"
+    ],
+    "in a state of disarray": [
+        "left at sixes and sevens"
+    ],
+    "in front of": [
+        "ul"
+    ],
+    "incorrectness, wrongness": [
+        "obersity"
+    ],
+    "inexperienced": [
+        "green"
+    ],
+    "informant": [
+        "rat"
+    ],
+    "informant": [
+        "abaddon"
+    ],
+    "informant": [
+        "hole in need of plugging"
+    ],
+    "insanity": [
+        "sabit"
+    ],
+    "inspection": [
+        "lani"
+    ],
+    "instead of": [
+        "ab"
+    ],
+    "intelligence": [
+        "sunin"
+    ],
+    "jail sentence": [
+        "asorit"
+    ],
+    "jaw": [
+        "tara"
+    ],
+    "jewel": [
+        "kem"
+    ],
+    "jug": [
+        "satek"
+    ],
+    "keg": [
+        "rytena"
+    ],
+    "kennel": [
+        "simarhin"
+    ],
+    "kettle": [
+        "sikla"
+    ],
+    "key": [
+        "tirib"
+    ],
+    "kick": [
+        "okob"
+    ],
+    "kid": [
+        "ime"
+    ],
+    "killing someone": [
+        "doing the out and out"
+    ],
+    "kitchen": [
+        "nirahin"
+    ],
+    "kobold": [
+        "hamoki"
+    ],
+    "ladder": [
+        "fasan"
+    ],
+    "lake": [
+        "utho"
+    ],
+    "language": [
+        "olarhe"
+    ],
+    "lantern": [
+        "tatobal"
+    ],
+    "lantern": [
+        "glim"
+    ],
+    "lateness": [
+        "nobal"
+    ],
+    "law": [
+        "biho"
+    ],
+    "lawlessness": [
+        "ankat"
+    ],
+    "lead (the metal)": [
+        "moss"
+    ],
+    "leader of a guild of thieves": [
+        "arch rogue",
+        "prince prig",
+        "upright man"
+    ],
+    "leather": [
+        "falat"
+    ],
+    "leftness (position)": [
+        "resa"
+    ],
+    "leg": [
+        "akto"
+    ],
+    "length": [
+        "haba"
+    ],
+    "lesson": [
+        "kutal"
+    ],
+    "letter": [
+        "kargel"
+    ],
+    "library": [
+        "lahin"
+    ],
+    "license to operate within the territory of a thieves' guild": [
+        "jukrum"
+    ],
+    "life": [
+        "har"
+    ],
+    "light (illumination)": [
+        "uta"
+    ],
+    "lightness (weight)": [
+        "tylo"
+    ],
+    "littleness": [
+        "tan"
+    ],
+    "loaded dice": [
+        "high and low men"
+    ],
+    "lock": [
+        "joke"
+    ],
+    "lock": [
+        "ihil"
+    ],
+    "lock pick": [
+        "tru"
+    ],
+    "lock pick": [
+        "dub",
+        "punchline"
+    ],
+    "locket": [
+        "fafet"
+    ],
+    "lookout": [
+        "pair of eyes"
+    ],
+    "loot": [
+        "kilik"
+    ],
+    "loot, treasure": [
+        "score",
+        "swag"
+    ],
+    "loudness": [
+        "obykar"
+    ],
+    "low-ranking soldier": [
+        "light bob"
+    ],
+    "lowness": [
+        "obora"
+    ],
+    "madam": [
+        "abbess"
+    ],
+    "magic": [
+        "ker"
+    ],
+    "magic item": [
+        "bagged flash"
+    ],
+    "magic-user": [
+        "mankero"
+    ],
+    "magistrate": [
+        "bawd"
+    ],
+    "make a fool of someone": [
+        "bamboozle"
+    ],
+    "mallet": [
+        "ekmel"
+    ],
+    "man": [
+        "ark"
+    ],
+    "man,  fellow": [
+        "cove"
+    ],
+    "manacles": [
+        "darbies"
+    ],
+    "map": [
+        "faki"
+    ],
+    "marsh": [
+        "ratik"
+    ],
+    "mattress": [
+        "kanoho"
+    ],
+    "may": [
+        "sib"
+    ],
+    "mayor": [
+        "holok"
+    ],
+    "mead": [
+        "kural"
+    ],
+    "meal": [
+        "baka"
+    ],
+    "medallion": [
+        "kolnok"
+    ],
+    "medicine": [
+        "tlinkit"
+    ],
+    "member of the watch": [
+        "bus napper",
+        "catch pole",
+        "flogger",
+        "fool finder",
+        "grunter",
+        "lurcher",
+        "pig",
+        "tapper",
+        "trap"
+    ],
+    "mercenary soldier": [
+        "galoot"
+    ],
+    "merchant": [
+        "forkel"
+    ],
+    "middle": [
+        "albir"
+    ],
+    "midnight": [
+        "hetobne"
+    ],
+    "might": [
+        "kutin"
+    ],
+    "million": [
+        "kisak"
+    ],
+    "minute": [
+        "nebi"
+    ],
+    "mirror": [
+        "lamin"
+    ],
+    "miserable, emaciated person": [
+        "death's head upon a mop-stick"
+    ],
+    "moment": [
+        "orib"
+    ],
+    "money": [
+        "bread",
+        "iron",
+        "king's pictures",
+        "plate",
+        "ready",
+        "wedge"
+    ],
+    "money": [
+        "hyman"
+    ],
+    "monk": [
+        "rosati"
+    ],
+    "monster": [
+        "arkoba"
+    ],
+    "month": [
+        "likano"
+    ],
+    "morning": [
+        "nibe"
+    ],
+    "mound, pile": [
+        "iloka"
+    ],
+    "mountain": [
+        "usal"
+    ],
+    "moustache": [
+        "tanina"
+    ],
+    "mouth": [
+        "bibik"
+    ],
+    "mugger": [
+        "ding boy"
+    ],
+    "muscle": [
+        "fonbak"
+    ],
+    "museum": [
+        "sihyres"
+    ],
+    "music": [
+        "siterke"
+    ],
+    "must": [
+        "miban"
+    ],
+    "nail": [
+        "konfa"
+    ],
+    "name": [
+        "lary"
+    ],
+    "near": [
+        "ry"
+    ],
+    "necessity": [
+        "tanol"
+    ],
+    "neck, pillar": [
+        "liki"
+    ],
+    "necklace": [
+        "likob"
+    ],
+    "newness": [
+        "hobuli"
+    ],
+    "night": [
+        "darkmans"
+    ],
+    "night": [
+        "obine"
+    ],
+    "night watchman": [
+        "moon pig"
+    ],
+    "nine": [
+        "am"
+    ],
+    "no coin in a pocket": [
+        "low tide"
+    ],
+    "no, not": [
+        "hibni"
+    ],
+    "noise": [
+        "yran"
+    ],
+    "noon": [
+        "hetne"
+    ],
+    "north": [
+        "bisfi"
+    ],
+    "nose": [
+        "lonek"
+    ],
+    "nothing": [
+        "hibmun"
+    ],
+    "now": [
+        "lyrib"
+    ],
+    "number": [
+        "taka"
+    ],
+    "of": [
+        "ro"
+    ],
+    "of the nobility": [
+        "gentry"
+    ],
+    "off": [
+        "al"
+    ],
+    "offering": [
+        "fakab"
+    ],
+    "office": [
+        "teltin"
+    ],
+    "oil": [
+        "fyal"
+    ],
+    "oldness": [
+        "huli"
+    ],
+    "on (a wall)": [
+        "li"
+    ],
+    "on top of": [
+        "ka"
+    ],
+    "one": [
+        "bi"
+    ],
+    "one who associates with criminals": [
+        "flash cove"
+    ],
+    "one who carries stolen property": [
+        "baggage man"
+    ],
+    "opal": [
+        "samun"
+    ],
+    "opposite": [
+        "feku"
+    ],
+    "or": [
+        "fy"
+    ],
+    "orange": [
+        "hali"
+    ],
+    "orb": [
+        "hari"
+    ],
+    "orc ": [
+        "tak"
+    ],
+    "out": [
+        "baker"
+    ],
+    "pack of playing cards": [
+        "child's best guide to the gallows"
+    ],
+    "painting": [
+        "rarkan"
+    ],
+    "paladin": [
+        "filta"
+    ],
+    "parapet": [
+        "nekio"
+    ],
+    "parcel or bundle of stolen goods": [
+        "child"
+    ],
+    "park": [
+        "herel"
+    ],
+    "party": [
+        "bislis"
+    ],
+    "passage": [
+        "bak"
+    ],
+    "past": [
+        "bir"
+    ],
+    "path": [
+        "byntan"
+    ],
+    "pawnbroker": [
+        "pop shop"
+    ],
+    "pawned": [
+        "laid on the shelf"
+    ],
+    "payment": [
+        "lyny"
+    ],
+    "pearl": [
+        "boblin"
+    ],
+    "people": [
+        "banasko"
+    ],
+    "person who is remarkably unsuccessful at anything he attempts": [
+        "born under a half-copper planet, never to be worth a gold"
+    ],
+    "pertaining to thieves or criminals": [
+        "flash"
+    ],
+    "petty crook who will do anything as long as it's dishonest": [
+        "spiv"
+    ],
+    "pick-lock, skeleton key": [
+        "kate"
+    ],
+    "pickpocket": [
+        "autem diver",
+        "buzman",
+        "foist",
+        "purse collector",
+        "reader merchant"
+    ],
+    "pickpocket": [
+        "mun"
+    ],
+    "pickpocketing": [
+        "buzzing"
+    ],
+    "pillow": [
+        "sakana"
+    ],
+    "pin": [
+        "katam"
+    ],
+    "place": [
+        "alub"
+    ],
+    "place where stolen goods are received": [
+        "fencing crib"
+    ],
+    "plains": [
+        "lyket"
+    ],
+    "plan": [
+        "signals"
+    ],
+    "plan": [
+        "itu"
+    ],
+    "platinum": [
+        "sublin"
+    ],
+    "pocket": [
+        "tolata"
+    ],
+    "poison": [
+        "mala"
+    ],
+    "pole": [
+        "anukit"
+    ],
+    "police, constables": [
+        "harman beaks"
+    ],
+    "potion": [
+        "isili"
+    ],
+    "pouch": [
+        "byb"
+    ],
+    "pound": [
+        "sorba"
+    ],
+    "price": [
+        "rub"
+    ],
+    "prince": [
+        "arhobol"
+    ],
+    "princess": [
+        "obarhobol"
+    ],
+    "prison": [
+        "basihin"
+    ],
+    "prison": [
+        "guest house",
+        "porridge",
+        "pound",
+        "quod",
+        "sheriff's hotel"
+    ],
+    "prison in the king's city": [
+        "King's Head Inn"
+    ],
+    "prisoner": [
+        "His Honor's guest",
+        "jailbird"
+    ],
+    "promise to pay": [
+        "earnest"
+    ],
+    "punishment": [
+        "ermina"
+    ],
+    "purse": [
+        "bung",
+        "dummee",
+        "reader"
+    ],
+    "question": [
+        "tanob"
+    ],
+    "question particle": [
+        "ste"
+    ],
+    "quiet, without trouble": [
+        "smooth"
+    ],
+    "quilt": [
+        "buk"
+    ],
+    "quiver": [
+        "tilya"
+    ],
+    "rain": [
+        "riso"
+    ],
+    "rations": [
+        "hira"
+    ],
+    "receiver, fence": [
+        "angling cove"
+    ],
+    "rectangle": [
+        "harata"
+    ],
+    "red": [
+        "blon"
+    ],
+    "remarkable": [
+        "swell"
+    ],
+    "rich": [
+        "oak"
+    ],
+    "rich": [
+        "equipt"
+    ],
+    "rightness (position)": [
+        "kolta"
+    ],
+    "ring": [
+        "jem",
+        "onion"
+    ],
+    "ring": [
+        "mabal"
+    ],
+    "road": [
+        "bayn"
+    ],
+    "road": [
+        "byn"
+    ],
+    "robbery": [
+        "recruiting service"
+    ],
+    "robbing from horseback": [
+        "bridle-lay"
+    ],
+    "robbing houses by picking the locks": [
+        "dub-lay"
+    ],
+    "robe": [
+        "balab"
+    ],
+    "room": [
+        "hin"
+    ],
+    "rope": [
+        "timon"
+    ],
+    "rope": [
+        "danglestuff"
+    ],
+    "ruby": [
+        "kumba"
+    ],
+    "rug": [
+        "bamat"
+    ],
+    "ruins": [
+        "raiga"
+    ],
+    "sack": [
+        "baim"
+    ],
+    "saddle": [
+        "silkaba"
+    ],
+    "safe place": [
+        "crib"
+    ],
+    "safecracker": [
+        "box-man"
+    ],
+    "safety": [
+        "tonta"
+    ],
+    "sage": [
+        "balub"
+    ],
+    "salt": [
+        "luset"
+    ],
+    "sanctuary": [
+        "tonlub"
+    ],
+    "sand": [
+        "betita"
+    ],
+    "sapphire": [
+        "be"
+    ],
+    "scabbard": [
+        "kamkanab"
+    ],
+    "scholar": [
+        "roal"
+    ],
+    "sconce": [
+        "ybila"
+    ],
+    "screen": [
+        "kufer"
+    ],
+    "scroll": [
+        "karel"
+    ],
+    "sea": [
+        "falati"
+    ],
+    "second (of time)": [
+        "nyo"
+    ],
+    "second (ordinal no.)": [
+        "lank"
+    ],
+    "secret": [
+        "huna"
+    ],
+    "secret door": [
+        "unahob"
+    ],
+    "seven": [
+        "ula"
+    ],
+    "shadow": [
+        "eski"
+    ],
+    "sheep stealer": [
+        "napper of naps"
+    ],
+    "sheet": [
+        "sihal"
+    ],
+    "shelf": [
+        "mitaf"
+    ],
+    "shield": [
+        "hantak"
+    ],
+    "ship": [
+        "lulani"
+    ],
+    "short person": [
+        "go by the ground"
+    ],
+    "shortness": [
+        "yta"
+    ],
+    "shoulder": [
+        "nakaoka"
+    ],
+    "shrine": [
+        "fysos"
+    ],
+    "sign": [
+        "fikisik"
+    ],
+    "silence": [
+        "robal"
+    ],
+    "silver": [
+        "rubel"
+    ],
+    "since": [
+        "okam"
+    ],
+    "six": [
+        "sito"
+    ],
+    "size": [
+        "rakomo"
+    ],
+    "skeleton": [
+        "akbotark"
+    ],
+    "skeleton key": [
+        "screw"
+    ],
+    "skin": [
+        "funar"
+    ],
+    "skull": [
+        "akbot"
+    ],
+    "sky": [
+        "morukek"
+    ],
+    "sling": [
+        "haro"
+    ],
+    "slowness": [
+        "obok"
+    ],
+    "snake": [
+        "hiblokni"
+    ],
+    "snow": [
+        "mubli"
+    ],
+    "softness, quietness": [
+        "ykar"
+    ],
+    "soldier": [
+        "beef eater",
+        "brother of the blade",
+        "foot wabbler",
+        "swod",
+        "swodkin"
+    ],
+    "soldier, warrior": [
+        "kaual"
+    ],
+    "someone who makes a reconnaissance of a building and of the habits of its occupants": [
+        "sounder"
+    ],
+    "something": [
+        "burakan"
+    ],
+    "something useful held back": [
+        "ace in the hole"
+    ],
+    "sometime or another": [
+        "odd-come-shortly"
+    ],
+    "song": [
+        "chaunt"
+    ],
+    "south": [
+        "lafe"
+    ],
+    "specific criminal job, such as stealing or robbing": [
+        "jaunt"
+    ],
+    "speed": [
+        "koma"
+    ],
+    "spell": [
+        "lam"
+    ],
+    "spider": [
+        "tulokto"
+    ],
+    "spike": [
+        "helu"
+    ],
+    "spring": [
+        "loksalik"
+    ],
+    "spy": [
+        "limenet"
+    ],
+    "square": [
+        "ashi"
+    ],
+    "stable": [
+        "abyhin"
+    ],
+    "staff": [
+        "jordain"
+    ],
+    "stairway": [
+        "sosan"
+    ],
+    "stand": [
+        "lofon"
+    ],
+    "statue": [
+        "emna"
+    ],
+    "steel": [
+        "ulof"
+    ],
+    "stocks": [
+        "harmans"
+    ],
+    "stolen": [
+        "ard"
+    ],
+    "stomach": [
+        "hanfi"
+    ],
+    "stone": [
+        "tato"
+    ],
+    "stool": [
+        "fokon"
+    ],
+    "storage": [
+        "bikit"
+    ],
+    "store": [
+        "foryhab"
+    ],
+    "story": [
+        "yarn"
+    ],
+    "street urchin": [
+        "natty lad"
+    ],
+    "strength": [
+        "fatas"
+    ],
+    "string": [
+        "kentis"
+    ],
+    "stronghold": [
+        "tontyha"
+    ],
+    "summer": [
+        "resalik"
+    ],
+    "sun": [
+        "tobalon"
+    ],
+    "swindling": [
+        "sharping-lay"
+    ],
+    "sword": [
+        "kam"
+    ],
+    "symbol": [
+        "biny"
+    ],
+    "table": [
+        "ruba"
+    ],
+    "tapestry": [
+        "uhasi"
+    ],
+    "target": [
+        "tili"
+    ],
+    "target of a con or crime": [
+        "mark",
+        "pigeon"
+    ],
+    "tavern": [
+        "boozing ken"
+    ],
+    "tavern owner": [
+        "beggar maker"
+    ],
+    "teacher": [
+        "kura"
+    ],
+    "temple": [
+        "kauta"
+    ],
+    "ten": [
+        "imbo"
+    ],
+    "that": [
+        "sab"
+    ],
+    "that, which (relative pronoun)": [
+        "om"
+    ],
+    "theft": [
+        "game"
+    ],
+    "then": [
+        "nosa"
+    ],
+    "they, them": [
+        "ii"
+    ],
+    "thief": [
+        "basim"
+    ],
+    "thief": [
+        "blue pigeon",
+        "bubber",
+        "bufe napper",
+        "canter",
+        "filcher",
+        "old hand",
+        "rover",
+        "whip jack"
+    ],
+    "thief not attached to a guild": [
+        "lone wolf"
+    ],
+    "thief of lowest order": [
+        "cadger"
+    ],
+    "thief who draws in victims in order to rob them": [
+        "angler"
+    ],
+    "thief's tool made of a simple wedge of steel": [
+        "little alderman"
+    ],
+    "thief,  pickpocket": [
+        "prig"
+    ],
+    "thieves' cant": [
+        "basifen"
+    ],
+    "thieves' tools": [
+        "basisala"
+    ],
+    "thing": [
+        "bura"
+    ],
+    "third (fraction)": [
+        "obsalo"
+    ],
+    "third (ordinal no.)": [
+        "salonk"
+    ],
+    "thousand": [
+        "bakat"
+    ],
+    "three": [
+        "salo"
+    ],
+    "throne": [
+        "ruka"
+    ],
+    "through": [
+        "ily"
+    ],
+    "time": [
+        "hek"
+    ],
+    "tinder": [
+        "uhys"
+    ],
+    "to": [
+        "sy"
+    ],
+    "to approach": [
+        "beslin"
+    ],
+    "to arouse suspicion": [
+        "rumble"
+    ],
+    "to arrest": [
+        "sanilin"
+    ],
+    "to arrive": [
+        "isimin"
+    ],
+    "to ask": [
+        "esun"
+    ],
+    "to attack": [
+        "kalan"
+    ],
+    "to backstab": [
+        "uneklin"
+    ],
+    "to be": [
+        "mon"
+    ],
+    "to be aware of a criminal's plans": [
+        "awake"
+    ],
+    "to be quiet": [
+        "shut the potato trap"
+    ],
+    "to be tortured": [
+        "have tea with the pigs"
+    ],
+    "to begin": [
+        "fasren"
+    ],
+    "to believe": [
+        "esoan"
+    ],
+    "to betray": [
+        "rolkon"
+    ],
+    "to blackmail": [
+        "barsan"
+    ],
+    "to blame": [
+        "hisuin"
+    ],
+    "to borrow": [
+        "baylan"
+    ],
+    "to break into a house, to rob a house": [
+        "mill a ken"
+    ],
+    "to break the windows of a shop": [
+        "snap the glaze"
+    ],
+    "to breathe": [
+        "mafitan"
+    ],
+    "to bribe": [
+        "grease"
+    ],
+    "to bribe": [
+        "madlin"
+    ],
+    "to burglarize": [
+        "kalintan"
+    ],
+    "to burglarize a house": [
+        "crack"
+    ],
+    "to burn": [
+        "balsan"
+    ],
+    "to buy": [
+        "kun"
+    ],
+    "to call": [
+        "laryn"
+    ],
+    "to catch, to imprison": [
+        "bag"
+    ],
+    "to check out, to pump for information, to investigate before a theft": [
+        "sound"
+    ],
+    "to choose": [
+        "uhan"
+    ],
+    "to climb": [
+        "san"
+    ],
+    "to climb walls": [
+        "sanlun"
+    ],
+    "to close": [
+        "heryan"
+    ],
+    "to come": [
+        "tun"
+    ],
+    "to commit a burglary": [
+        "visit the neighborhood"
+    ],
+    "to commit arson": [
+        "hinuntan"
+    ],
+    "to con, to lie": [
+        "amuse",
+        "fob",
+        "hoodwink"
+    ],
+    "to counterfeit": [
+        "kartan"
+    ],
+    "to cover": [
+        "kafun"
+    ],
+    "to crawl": [
+        "nusen"
+    ],
+    "to curse": [
+        "totakalan"
+    ],
+    "to cut": [
+        "syan"
+    ],
+    "to deceive, to outwit,  to con, to lie": [
+        "fun"
+    ],
+    "to decide": [
+        "tisan"
+    ],
+    "to defeat": [
+        "kokan"
+    ],
+    "to destroy": [
+        "bahelan"
+    ],
+    "to detect traps": [
+        "rabalan"
+    ],
+    "to detect, to recognize that something is wrong": [
+        "tumble"
+    ],
+    "to die": [
+        "hunaran"
+    ],
+    "to disguise": [
+        "bakren"
+    ],
+    "to distribute": [
+        "sinkin"
+    ],
+    "to divert": [
+        "lakan"
+    ],
+    "to divide": [
+        "brokan"
+    ],
+    "to do": [
+        "salan"
+    ],
+    "to dress": [
+        "taron"
+    ],
+    "to drink": [
+        "asefan"
+    ],
+    "to drug": [
+        "titanin"
+    ],
+    "to eat": [
+        "safen"
+    ],
+    "to enter": [
+        "tyhin"
+    ],
+    "to escape": [
+        "burn the ken",
+        "hike"
+    ],
+    "to escape": [
+        "untan"
+    ],
+    "to faint": [
+        "barbun"
+    ],
+    "to fall": [
+        "rakin"
+    ],
+    "to fight": [
+        "kolen"
+    ],
+    "to find": [
+        "tafen"
+    ],
+    "to finish": [
+        "unen"
+    ],
+    "to follow": [
+        "drag"
+    ],
+    "to forge coins": [
+        "draw the king's picture"
+    ],
+    "to frame": [
+        "kaluan"
+    ],
+    "to free": [
+        "boroban"
+    ],
+    "to get": [
+        "feun"
+    ],
+    "to give": [
+        "lyn"
+    ],
+    "to give the alarm,  to call for the watch": [
+        "cry beef"
+    ],
+    "to go": [
+        "ban"
+    ],
+    "to hand": [
+        "falabin"
+    ],
+    "to handle": [
+        "tankan"
+    ],
+    "to have": [
+        "tyn"
+    ],
+    "to heat": [
+        "takan"
+    ],
+    "to help": [
+        "nafen"
+    ],
+    "to hide": [
+        "turen"
+    ],
+    "to hijack": [
+        "kandon"
+    ],
+    "to hit": [
+        "click",
+        "dowse"
+    ],
+    "to hit": [
+        "klun"
+    ],
+    "to hold hostage": [
+        "amon"
+    ],
+    "to hold up": [
+        "kontoran"
+    ],
+    "to inform": [
+        "cackle",
+        "peach",
+        "sing"
+    ],
+    "to inspect": [
+        "lanin"
+    ],
+    "to interest": [
+        "hyutan"
+    ],
+    "to kidnap": [
+        "naman"
+    ],
+    "to kill": [
+        "crash",
+        "use up"
+    ],
+    "to kill": [
+        "intan"
+    ],
+    "to kill,  to murder": [
+        "hush"
+    ],
+    "to knock unconscious": [
+        "tuck in bed"
+    ],
+    "to know (a fact)": [
+        "solen"
+    ],
+    "to know (someone)": [
+        "altan"
+    ],
+    "to leave (a place)": [
+        "tern"
+    ],
+    "to leave (a thing)": [
+        "aban"
+    ],
+    "to lend": [
+        "fyton"
+    ],
+    "to light": [
+        "utan"
+    ],
+    "to listen": [
+        "tin"
+    ],
+    "to live (not die)": [
+        "harn"
+    ],
+    "to live (somewhere)": [
+        "iroen"
+    ],
+    "to live beyond one's means": [
+        "outrun the constable"
+    ],
+    "to lock": [
+        "ihilin"
+    ],
+    "to look at, to watch": [
+        "sarhon"
+    ],
+    "to look for": [
+        "oroen"
+    ],
+    "to loot": [
+        "kilikon"
+    ],
+    "to lose (a thing)": [
+        "obfiken"
+    ],
+    "to make a thing": [
+        "forlin"
+    ],
+    "to make unconscious": [
+        "belon"
+    ],
+    "to miss an appointment with other rogues": [
+        "blow the meet"
+    ],
+    "to move": [
+        "otan"
+    ],
+    "to move silently": [
+        "bin"
+    ],
+    "to murder": [
+        "wet work"
+    ],
+    "to observe": [
+        "tulon"
+    ],
+    "to obtain goods and credit and never pay": [
+        "mace"
+    ],
+    "to open": [
+        "binson"
+    ],
+    "to part with money easily": [
+        "bleed freely"
+    ],
+    "to pass": [
+        "behan"
+    ],
+    "to pass up, to ignore": [
+        "give the go-by"
+    ],
+    "to pawn": [
+        "spout"
+    ],
+    "to pawn": [
+        "pop",
+        "vamp"
+    ],
+    "to pay": [
+        "hinlan"
+    ],
+    "to pay someone not to beat you up": [
+        "tip"
+    ],
+    "to pick a lock": [
+        "trun"
+    ],
+    "to pick locks": [
+        "tell a joke"
+    ],
+    "to pick pockets": [
+        "dip"
+    ],
+    "to pick pockets": [
+        "dive"
+    ],
+    "to pilfer": [
+        "kenon"
+    ],
+    "to pillage": [
+        "baron"
+    ],
+    "to plan": [
+        "flag wave"
+    ],
+    "to plan": [
+        "ituan"
+    ],
+    "to plan to escape by boat before an execution date": [
+        "shall have a swimmer"
+    ],
+    "to play dumb": [
+        "look as if one could not help it"
+    ],
+    "to plunder": [
+        "kruteln"
+    ],
+    "to poach": [
+        "ikiban"
+    ],
+    "to practice": [
+        "suon"
+    ],
+    "to prepare": [
+        "sun"
+    ],
+    "to pull": [
+        "sanatan"
+    ],
+    "to punish": [
+        "erminan"
+    ],
+    "to push": [
+        "tambon"
+    ],
+    "to put": [
+        "kunin"
+    ],
+    "to rain": [
+        "rison"
+    ],
+    "to ransom": [
+        "haten"
+    ],
+    "to rap": [
+        "babon"
+    ],
+    "to read": [
+        "fehin"
+    ],
+    "to receive a whipping": [
+        "cly the jerk"
+    ],
+    "to release": [
+        "obamon"
+    ],
+    "to remove": [
+        "berosin"
+    ],
+    "to remove the booty (as one's role in a robbery)": [
+        "carry the swag"
+    ],
+    "to repeat": [
+        "nabasin"
+    ],
+    "to rest": [
+        "hintyn"
+    ],
+    "to retreat": [
+        "kurnan"
+    ],
+    "to return": [
+        "myban"
+    ],
+    "to rob": [
+        "foren"
+    ],
+    "to run": [
+        "sen"
+    ],
+    "to run away as fast as possible": [
+        "pike on the been"
+    ],
+    "to run off, to escape": [
+        "tip the double"
+    ],
+    "to run up a tab in a tavern": [
+        "walk up against the wall"
+    ],
+    "to save (a life)": [
+        "toran"
+    ],
+    "to save (conserve)": [
+        "torin"
+    ],
+    "to see": [
+        "tryn"
+    ],
+    "to sell": [
+        "lobun"
+    ],
+    "to sell stolen goods": [
+        "fence"
+    ],
+    "to shoot": [
+        "tlin"
+    ],
+    "to show": [
+        "lebon"
+    ],
+    "to snitch": [
+        "nilinin"
+    ],
+    "to snow": [
+        "mublin"
+    ],
+    "to stab": [
+        "klin"
+    ],
+    "to stand": [
+        "bilin"
+    ],
+    "to stand firm, to confess nothing": [
+        "stand buff"
+    ],
+    "to stay": [
+        "buron"
+    ],
+    "to stay in hiding until the hue-and-cry is over": [
+        "cool off"
+    ],
+    "to steal": [
+        "ken"
+    ],
+    "to steal": [
+        "annex"
+    ],
+    "to steal": [
+        "borrow",
+        "cloy",
+        "filch",
+        "heave",
+        "hoist",
+        "lift",
+        "make",
+        "nick",
+        "snaffle"
+    ],
+    "to steal by picking pockets": [
+        "fork"
+    ],
+    "to steal by pickpocketing": [
+        "angle"
+    ],
+    "to step": [
+        "kaltan"
+    ],
+    "to stop": [
+        "ryn"
+    ],
+    "to store": [
+        "bikitan"
+    ],
+    "to strangle": [
+        "ronen"
+    ],
+    "to suffice": [
+        "fadge"
+    ],
+    "to swear": [
+        "tekenon"
+    ],
+    "to swim": [
+        "usen"
+    ],
+    "to take": [
+        "olon"
+    ],
+    "to talk": [
+        "fen"
+    ],
+    "to teach": [
+        "kuron"
+    ],
+    "to tell": [
+        "lynin"
+    ],
+    "to tell everything, to confess all": [
+        "come clean"
+    ],
+    "to think": [
+        "brun"
+    ],
+    "to throw": [
+        "haron"
+    ],
+    "to tie": [
+        "seyen"
+    ],
+    "to tie up": [
+        "dress up"
+    ],
+    "to trail": [
+        "beon"
+    ],
+    "to trap": [
+        "esten"
+    ],
+    "to use": [
+        "bun"
+    ],
+    "to visit": [
+        "maban"
+    ],
+    "to wait": [
+        "myn"
+    ],
+    "to wake": [
+        "ylink"
+    ],
+    "to walk": [
+        "bosen"
+    ],
+    "to wander": [
+        "aron"
+    ],
+    "to want": [
+        "uon"
+    ],
+    "to wash": [
+        "oren"
+    ],
+    "to wear": [
+        "ymasan"
+    ],
+    "to win": [
+        "firen"
+    ],
+    "to work": [
+        "haman"
+    ],
+    "to write": [
+        "sabnolan"
+    ],
+    "today": [
+        "lyrne"
+    ],
+    "toe": [
+        "kuly"
+    ],
+    "tomorrow": [
+        "sirine"
+    ],
+    "tongue": [
+        "lina"
+    ],
+    "tooth": [
+        "iti"
+    ],
+    "torch": [
+        "uro"
+    ],
+    "torso": [
+        "lak"
+    ],
+    "toward": [
+        "so"
+    ],
+    "tower": [
+        "fysy"
+    ],
+    "town": [
+        "mibet"
+    ],
+    "trail": [
+        "beo"
+    ],
+    "traitor": [
+        "rolko"
+    ],
+    "trap": [
+        "bite"
+    ],
+    "trap": [
+        "itak"
+    ],
+    "treasure": [
+        "kyam"
+    ],
+    "triangle": [
+        "kolibis"
+    ],
+    "tricks and devices": [
+        "quirks and quillets"
+    ],
+    "trip": [
+        "kult"
+    ],
+    "troll": [
+        "bart"
+    ],
+    "two": [
+        "la"
+    ],
+    "unconsciousness": [
+        "obfora"
+    ],
+    "undertaker": [
+        "death hunter"
+    ],
+    "unholiness": [
+        "obina"
+    ],
+    "unlike": [
+        "obinta"
+    ],
+    "until": [
+        "si"
+    ],
+    "valuables": [
+        "konba"
+    ],
+    "vase": [
+        "hliki"
+    ],
+    "vault": [
+        "narko"
+    ],
+    "violet": [
+        "rybun"
+    ],
+    "wagon": [
+        "enbra"
+    ],
+    "wagon, cart": [
+        "fly",
+        "tumbler",
+        "vardo"
+    ],
+    "wall": [
+        "alun"
+    ],
+    "wall": [
+        "tilted floor"
+    ],
+    "wand": [
+        "naki"
+    ],
+    "watchman on guard duty": [
+        "setter"
+    ],
+    "watchman on patrol": [
+        "roller"
+    ],
+    "water": [
+        "ros"
+    ],
+    "waterskin": [
+        "roskanab"
+    ],
+    "way": [
+        "ba"
+    ],
+    "we, us (excluding person spoken to)": [
+        "too"
+    ],
+    "we, us (excluding person spoken to)": [
+        "oo"
+    ],
+    "we, us (including person spoken to)": [
+        "toeo"
+    ],
+    "we, us (including person spoken to)": [
+        "oeo"
+    ],
+    "wealthy-looking": [
+        "swell"
+    ],
+    "weapon": [
+        "kosol"
+    ],
+    "weaponer": [
+        "kosolit"
+    ],
+    "weather": [
+        "hos"
+    ],
+    "week": [
+        "lino"
+    ],
+    "well": [
+        "limi"
+    ],
+    "west": [
+        "limok"
+    ],
+    "what": [
+        "laf"
+    ],
+    "when": [
+        "nau"
+    ],
+    "where": [
+        "foram"
+    ],
+    "whether": [
+        "bo"
+    ],
+    "while": [
+        "uale"
+    ],
+    "whipping": [
+        "air and exercise",
+        "flogging",
+        "hue",
+        "teize"
+    ],
+    "whipping post": [
+        "jigger"
+    ],
+    "white": [
+        "bysne"
+    ],
+    "who (relative pronoun)": [
+        "nita"
+    ],
+    "who": [
+        "tehel"
+    ],
+    "why": [
+        "sarum"
+    ],
+    "wind": [
+        "ferel"
+    ],
+    "wine": [
+        "kalaf"
+    ],
+    "winter": [
+        "bysalik"
+    ],
+    "wire": [
+        "kenil"
+    ],
+    "witch": [
+        "manka"
+    ],
+    "with": [
+        "ki"
+    ],
+    "without": [
+        "ryki"
+    ],
+    "woman": [
+        "moll",
+        "mot"
+    ],
+    "woman": [
+        "obark"
+    ],
+    "woman,  wife": [
+        "mort"
+    ],
+    "wood": [
+        "kahy"
+    ],
+    "wooden cudgel": [
+        "oaken towel"
+    ],
+    "word": [
+        "hal"
+    ],
+    "work": [
+        "hama"
+    ],
+    "workshop": [
+        "hamhin"
+    ],
+    "would": [
+        "takin"
+    ],
+    "wound": [
+        "beef"
+    ],
+    "wrist": [
+        "lator"
+    ],
+    "year": [
+        "fal"
+    ],
+    "yellow": [
+        "nolt"
+    ],
+    "yes": [
+        "an"
+    ],
+    "yesterday": [
+        "labne"
+    ],
+    "you (plural)": [
+        "toe"
+    ],
+    "you (plural)": [
+        "oe"
+    ],
+    "you (singular)": [
+        "te"
+    ],
+    "you (singular)": [
+        "e"
+    ],
+    "zero": [
+        "orni"
+    ]
+}

@@ -1,0 +1,554 @@
+:root {
+    --background: #101010;
+    --surface: #181818;
+    --surface-light: #222222;
+    --border: #343434;
+
+    --text: #eeeeee;
+    --muted: #999999;
+
+    --accent: #c89b3c;
+    --accent-dark: #8f6d28;
+
+    --danger: #b94a48;
+
+    --radius: 10px;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+
+    min-height: 100vh;
+
+    background:
+        radial-gradient(
+            circle at top,
+            #252525 0%,
+            var(--background) 45%
+        );
+
+    color: var(--text);
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+}
+
+
+/* Header */
+
+.site-header {
+    border-bottom: 1px solid var(--border);
+
+    background: rgba(10, 10, 10, 0.8);
+
+    backdrop-filter: blur(8px);
+}
+
+
+.header-content {
+    max-width: 1100px;
+
+    margin: auto;
+
+    padding: 28px 24px;
+}
+
+
+h1 {
+    margin: 0;
+
+    font-family:
+        Georgia,
+        serif;
+
+    font-size: 32px;
+
+    color: var(--accent);
+}
+
+
+.subtitle {
+    margin: 5px 0 0;
+
+    color: var(--muted);
+
+    font-size: 14px;
+}
+
+
+/* Main */
+
+.container {
+    width: min(1100px, calc(100% - 32px));
+
+    margin: 32px auto;
+}
+
+
+.card {
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: var(--radius);
+
+    margin-bottom: 24px;
+
+    overflow: hidden;
+}
+
+
+/* Tabs */
+
+.tabs {
+    display: flex;
+
+    border-bottom: 1px solid var(--border);
+
+    background: #141414;
+}
+
+
+.tab {
+    flex: 1;
+
+    padding: 16px;
+
+    border: 0;
+
+    background: transparent;
+
+    color: var(--muted);
+
+    font-size: 15px;
+
+    cursor: pointer;
+
+    border-bottom: 2px solid transparent;
+}
+
+
+.tab:hover {
+    color: var(--text);
+}
+
+
+.tab.active {
+    color: var(--accent);
+
+    border-bottom-color: var(--accent);
+}
+
+
+/* Translator */
+
+.translator {
+    display: grid;
+
+    grid-template-columns: 1fr 50px 1fr;
+
+    gap: 16px;
+
+    padding: 24px;
+}
+
+
+.text-panel {
+    display: flex;
+
+    flex-direction: column;
+}
+
+
+.panel-header {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    margin-bottom: 8px;
+}
+
+
+.panel-header label {
+    color: var(--muted);
+
+    font-size: 13px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.08em;
+}
+
+
+textarea {
+    width: 100%;
+
+    min-height: 220px;
+
+    resize: vertical;
+
+    padding: 16px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 8px;
+
+    background: #101010;
+
+    color: var(--text);
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    font-size: 16px;
+
+    line-height: 1.6;
+
+    outline: none;
+}
+
+
+textarea:focus {
+    border-color: var(--accent);
+}
+
+
+textarea::placeholder {
+    color: #555555;
+}
+
+
+.swap-container {
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+
+.swap-button {
+    width: 40px;
+
+    height: 40px;
+
+    border-radius: 50%;
+
+    border: 1px solid var(--border);
+
+    background: var(--surface-light);
+
+    color: var(--accent);
+
+    font-size: 20px;
+
+    cursor: pointer;
+}
+
+
+.swap-button:hover {
+    background: #2b2b2b;
+}
+
+
+/* Controls */
+
+.controls {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 0 24px 24px;
+}
+
+
+.checkbox-label {
+    color: var(--muted);
+
+    font-size: 14px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+}
+
+
+.checkbox-label input {
+    accent-color: var(--accent);
+}
+
+
+.primary-button {
+    padding: 11px 22px;
+
+    border: 0;
+
+    border-radius: 6px;
+
+    background: var(--accent);
+
+    color: #111;
+
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+
+.primary-button:hover {
+    background: #d7ad50;
+}
+
+
+.small-button {
+    padding: 5px 9px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 5px;
+
+    background: transparent;
+
+    color: var(--muted);
+
+    font-size: 12px;
+
+    cursor: pointer;
+}
+
+
+.small-button:hover {
+    color: var(--text);
+
+    border-color: var(--accent);
+}
+
+
+/* Glossary */
+
+.glossary-card {
+    padding-bottom: 0;
+}
+
+
+.section-heading {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 24px;
+
+    border-bottom: 1px solid var(--border);
+}
+
+
+.section-heading h2 {
+    margin: 0 0 4px;
+
+    font-family: Georgia, serif;
+
+    color: var(--accent);
+}
+
+
+.section-heading p {
+    margin: 0;
+
+    color: var(--muted);
+
+    font-size: 14px;
+}
+
+
+.entry-count {
+    padding: 5px 9px;
+
+    border-radius: 20px;
+
+    background: var(--surface-light);
+
+    color: var(--muted);
+
+    font-size: 12px;
+}
+
+
+.search-container {
+    padding: 16px 24px;
+}
+
+
+.search-container input {
+    width: 100%;
+
+    padding: 12px 14px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 7px;
+
+    background: #101010;
+
+    color: var(--text);
+
+    outline: none;
+
+    font-size: 14px;
+}
+
+
+.search-container input:focus {
+    border-color: var(--accent);
+}
+
+
+.glossary-table-container {
+    max-height: 500px;
+
+    overflow-y: auto;
+
+    border-top: 1px solid var(--border);
+}
+
+
+table {
+    width: 100%;
+
+    border-collapse: collapse;
+}
+
+
+th {
+    position: sticky;
+
+    top: 0;
+
+    padding: 12px 24px;
+
+    background: #141414;
+
+    color: var(--muted);
+
+    text-align: left;
+
+    font-size: 12px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.06em;
+}
+
+
+td {
+    padding: 12px 24px;
+
+    border-top: 1px solid #292929;
+
+    font-size: 14px;
+
+    vertical-align: top;
+}
+
+
+tr:hover td {
+    background: #1e1e1e;
+}
+
+
+.cant-word {
+    color: var(--accent);
+
+    font-family: Georgia, serif;
+
+    font-weight: 600;
+}
+
+
+.no-results {
+    padding: 30px;
+
+    text-align: center;
+
+    color: var(--muted);
+}
+
+
+/* Footer */
+
+footer {
+    padding: 20px;
+
+    text-align: center;
+
+    color: #555;
+
+    font-size: 12px;
+}
+
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+    .translator {
+        grid-template-columns: 1fr;
+
+        gap: 10px;
+    }
+
+
+    .swap-container {
+        transform: rotate(90deg);
+
+        padding: 4px;
+    }
+
+
+    .controls {
+        flex-direction: column;
+
+        align-items: stretch;
+
+        gap: 16px;
+    }
+
+
+    .primary-button {
+        width: 100%;
+    }
+
+
+    .section-heading {
+        align-items: flex-start;
+
+        gap: 12px;
+
+        flex-direction: column;
+    }
+
+
+    th,
+    td {
+        padding: 10px 12px;
+    }
+}

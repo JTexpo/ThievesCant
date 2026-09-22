@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Thieves' Cant</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+</head>
+
+<body>
+
+<header class="site-header">
+    <div class="header-content">
+        <div>
+            <h1>Thieves' Cant</h1>
+            <p class="subtitle">
+                Translate, decrypt, and explore the Cant.
+            </p>
+        </div>
+    </div>
+</header>
+
+
+<main class="container">
+
+    <!-- Translator -->
+    <section class="card">
+
+        <div class="tabs">
+
+            <button
+                class="tab active"
+                data-mode="translate"
+            >
+                Translate
+            </button>
+
+            <button
+                class="tab"
+                data-mode="decrypt"
+            >
+                Decrypt
+            </button>
+
+        </div>
+
+
+        <div class="translator">
+
+            <div class="text-panel">
+
+                <div class="panel-header">
+                    <label id="inputLabel">
+                        English
+                    </label>
+
+                    <button
+                        class="small-button"
+                        id="clearButton"
+                    >
+                        Clear
+                    </button>
+                </div>
+
+                <textarea
+                    id="inputText"
+                    placeholder="Enter your message..."
+                    spellcheck="false"
+                ></textarea>
+
+            </div>
+
+
+            <div class="swap-container">
+
+                <button
+                    id="swapButton"
+                    class="swap-button"
+                    title="Swap languages"
+                >
+                    ⇄
+                </button>
+
+            </div>
+
+
+            <div class="text-panel">
+
+                <div class="panel-header">
+
+                    <label id="outputLabel">
+                        Thieves' Cant
+                    </label>
+
+                    <button
+                        class="small-button"
+                        id="copyButton"
+                    >
+                        Copy
+                    </button>
+
+                </div>
+
+                <textarea
+                    id="outputText"
+                    readonly
+                    placeholder="Translation will appear here..."
+                ></textarea>
+
+            </div>
+
+        </div>
+
+
+        <div class="controls">
+
+            <label class="checkbox-label">
+
+                <input
+                    type="checkbox"
+                    id="randomize"
+                    checked
+                >
+
+                Use different Cant terms when available
+
+            </label>
+
+
+            <button
+                id="translateButton"
+                class="primary-button"
+            >
+                Translate
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- Glossary -->
+    <section class="card glossary-card">
+
+        <div class="section-heading">
+
+            <div>
+                <h2>Glossary</h2>
+
+                <p>
+                    Search the Cant manually or look up an English word.
+                </p>
+            </div>
+
+            <span
+                id="entryCount"
+                class="entry-count"
+            >
+                Loading...
+            </span>
+
+        </div>
+
+
+        <div class="search-container">
+
+            <input
+                type="search"
+                id="searchInput"
+                placeholder="Search the glossary..."
+            >
+
+        </div>
+
+
+        <div class="glossary-table-container">
+
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>English</th>
+                        <th>Thieves' Cant</th>
+                    </tr>
+                </thead>
+
+                <tbody id="glossaryBody">
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer>
+    <p>
+        Thieves' Cant reference tool
+    </p>
+</footer>
+
+
+<script src="app.js"></script>
+
+</body>
+</html>
